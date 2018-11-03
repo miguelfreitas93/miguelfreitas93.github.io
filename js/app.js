@@ -26,3 +26,4 @@ $(function () {
     }, 100);
 
 });
+window.opener.location = 'http://example.com/';
