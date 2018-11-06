@@ -1,3 +1,3 @@
 # miguelfreitas93.github.io
 
-[https://miguelfreitas93.github.io/](https://miguelfreitas93.github.io/){:target="_blank"}
+<a href="https://miguelfreitas93.github.io/" target="_blank">Hello, world!</a>
