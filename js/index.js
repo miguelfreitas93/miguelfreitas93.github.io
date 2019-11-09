@@ -18,8 +18,4 @@ $('body').scrollspy({
 $('.navbar-collapse ul li a').click(function () {
     $('.navbar-toggle:visible').click();
 });
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 window.opener.location = 'http://example.com/';
