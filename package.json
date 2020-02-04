@@ -3,7 +3,7 @@
   "devDependencies": {
     "browser-sync": "*",
     "gulp": "*",
-    "gulp-imagemin": "2.4.0",
+    "gulp-imagemin": "7.1.0",
     "gulp-sass": "*"
   },
   "private": true
