@@ -1,10 +1,10 @@
 {
   "name": "miguelfreitas93-public-wesite",
   "devDependencies": {
-    "browser-sync": "*",
+    "browser-sync": "2.26.14",
     "gulp": "*",
-    "gulp-imagemin": "2.4.0",
-    "gulp-sass": "*"
+    "gulp-imagemin": "7.1.0",
+    "gulp-sass": "4.1.0"
   },
   "private": true
 }
